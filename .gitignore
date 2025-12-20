@@ -163,3 +163,14 @@ cython_debug/
 *.zip
 
 assignment1-basics/data/
+
+# data & models
+datasets/
+models/
+checkpoints/
+runs/
+
+# cache
+.cache/
+__pycache__/
+*.log
